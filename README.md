@@ -1,10 +1,18 @@
-# Getting Started with Create React App
+# Kyra map clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tools on this App
+
+### React JS
+
+### React Redux (redux thunk)
+
+### SASS
+
+### Google places API
 
 ## Before you run this app
 
-Please insert your google map API credential inside script on
+Please insert your google places API credential inside script on
 
 ### `index.html`
 
