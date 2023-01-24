@@ -1,0 +1,32 @@
+.active {
+  cursor: pointer;
+}
+
+.suggestion {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.input {
+  width: 600px;
+  margin: 10px auto;
+  input {
+    height: 40px;
+  }
+}
+
+.list-wrapper {
+  width: 600px;
+  margin: auto;
+  div {
+    background-color: #fff !important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .input,
+  .list-wrapper {
+    width: 95vw;
+  }
+}
