@@ -10,7 +10,7 @@
 
 #### `Google places API`
 
-## `Before you run this app`
+## Before you run this app
 
 Please insert your google places API credential inside script on
 
