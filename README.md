@@ -2,15 +2,15 @@
 
 ## Tools on this App
 
-### React JS
+#### `React JS`
 
-### React Redux (redux thunk)
+#### `React Redux (redux thunk)`
 
-### SASS
+#### `SASS`
 
-### Google places API
+#### `Google places API`
 
-## Before you run this app
+## `Before you run this app`
 
 Please insert your google places API credential inside script on
 
